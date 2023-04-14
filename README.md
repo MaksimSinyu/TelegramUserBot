@@ -13,4 +13,4 @@ pip install -r requirements.txt
 Contributions are welcome! If you would like to contribute to GrishaBot, please create a pull request with your changes.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE]{https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt} file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
